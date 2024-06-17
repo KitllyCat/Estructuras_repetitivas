@@ -2,9 +2,12 @@
 using namespace std;
 
 int main() {
+	
     int n, suma, i;
+    
     suma=0;
     i=1;
+    
     cout << "Ingrese el valor de n: ";
     cin >> n;
 
@@ -21,4 +24,6 @@ int main() {
 
     return 0;
 }
+
+//en este caso, creo que no veo la necesidad de modificar mucho el ejercicio
 
